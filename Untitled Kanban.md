@@ -4,15 +4,15 @@ kanban-plugin: basic
 
 ---
 
-## To Do
-
-- [ ] Another task @{2021-06-02}
-
-
 ## Done
 
 **Complete**
 - [x] [[TEst]]
+
+
+## To Do
+
+- [ ] Another task @{2021-06-02}
 
 
 ***
