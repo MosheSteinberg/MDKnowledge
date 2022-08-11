@@ -13,6 +13,7 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Another task @{2021-06-02}
+- [ ] [[Thing]]
 
 
 ***
@@ -20,3 +21,9 @@ kanban-plugin: basic
 ## Archive
 
 - [ ] Bye @{2021-06-09} @@{01:00}
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%
