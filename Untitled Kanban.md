@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Another task @{2021-06-02}
+- [ ] Another task @{🗓2021-06-02}
 - [ ] [[Thing]]
 
 

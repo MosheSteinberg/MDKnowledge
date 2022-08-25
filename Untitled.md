@@ -1,1 +1,8 @@
-![[thing.ex.png]]
+![[thing.excalidraw.png]]
+
+
+---
+thing
+
+---
+other
